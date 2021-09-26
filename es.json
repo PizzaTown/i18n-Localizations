@@ -57,6 +57,41 @@
             ":white_check_mark: Your **profile color** has successfully changed!\n\nThe color on this embed is the original PizzaTown profile color, so it you\"d like this color, you\"re gonna love your profile! Run `%sprofile` to view it!\n\nIf you want a different color, run this command again with a hex code.": ":white_check_mark: ¡Su **color de perfil** ha cambiado correctamente!\n\nEl color de esta inserción es el color de perfil original de PizzaTown, así que si le gusta este color, ¡le encantará su perfil! ¡Ejecute `%sprofile` para verlo!\n\nSi desea un color diferente, ejecute este comando nuevamente con un código hexadecimal.",
             "Thank you for donating to PizzaTown!": "¡Gracias por donar a PizzaTown!",
             ":white_check_mark: Your **profile color** has successfully changed!\n\nThe color on this embed is the color you chose, so it you\"d like this color, you're gonna love your new profile! Run `%profile` to view it!\n\nIf you want a different color, run this command again with another hex code.": ":white_check_mark: ¡Tu **color de perfil** ha cambiado correctamente!\n\nEl color de esta inserción es el color que elegiste, así que si te gustaría este color, ¡te encantará tu nuevo perfil! ¡Ejecute `%profile` para verlo!\n\nSi desea un color diferente, ejecute este comando nuevamente con otro código hexadecimal."
+        },
+        "cooldowns": {
+            "READY": "",
+            "Toppings": "",
+            "Bake": "",
+            "Deliver": "",
+            "Daily": "",
+            "Vote": "",
+            "Collect": "",
+            "Reap": ""
+        },
+        "buy": {
+            "You now have %c cookies": "",
+            "You now have $%b": "",
+            "You have bought **%a Bell Pepper Topping%s** for $%b!": "",
+            "You have bought **%a %l Topping%s** for $%b!":"",
+            "You have bought **%s** for %b":"",
+            "You have bought **%s** for %c":"",
+            ":x: You don't have the required **Prestige Level** to use this command! You need a Prestige Level of **1**!":""
+        },
+        "channel": {
+            ":x: You don't have permission to change the server prefix! You need the **ADMINISTRATOR** permission to change the prefix!":"",
+            "LARGE_DESCRIPTION_HERE (WIP | DO NOT TRANSLATE)":""
+        },
+        "utils": {
+            ":x: Unknown Buy ID!": "",
+            ":x: Unknown Employee ID!": "",
+            ":x: You've already bought the maximum amount!": "",
+            ":x: You've already hired the maximum number of people for this job!": "",
+            ":x: You must input a number, like `10`": "",
+            ":x: You must input a positive integer, like `10`": "",
+            ":x: You must input a whole number, like `10`": "",
+            ":x: You don't have enough money for the amount of toppings you want! You need $%b more to buy the amount of toppings you want!": "",
+            ":x: You don't have enough money for this upgrade! You need $%b more to buy this upgrade!": "",
+            ":x: You don't have enough money to employ this person! You need $%b more to employ them!": ""
         }
     }
 }
