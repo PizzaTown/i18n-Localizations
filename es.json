@@ -62,13 +62,13 @@
             "READY": "LISTO"
         },
         "buy": {
-            "You now have %c cookies": "Ahora tienes %c galletas",
-            "You now have $%b": "Ahora tienes $%b",
-            "You have bought **%a Bell Pepper Topping%s** for $%b%ex": "Has comprado **%a coberturas de pimiento%s** por $%b%ex",
-            "You have bought **%a %l Topping%s** for $%b%ex":"Has comprado **%a %l coberturas%s** por $%b%ex",
-            "You have bought **%s** for %b":"Has comprado **%s** por %b",
-            "You have bought **%s** for %c":"Has comprado **%s** por %c",
-            ":x: You don't have the required **Prestige Level** to use this command%ex You need a Prestige Level of **1**%ex":":x: No tienes el **Nivel de Prestigio** requerido para usar este comando%ex  necesitas un **Nivel de Prestigio** de **1**%ex"
+            "You now have %c cookies": "",
+            "You now have $%b": "",
+            "You have bought **%a Bell Pepper Topping%s** for $%b%ex": "",
+            "You have bought **%a %l Topping%s** for $%b%ex":"",
+            "You have bought **%s** for %b":"",
+            "You have bought **%s** for %c":"",
+            ":x: You don't have the required **Prestige Level** to use this command%ex You need a Prestige Level of **1**%ex":""
         },
         "channel": {
             ":x: You don't have permission to change the server prefix%ex You need the **ADMINISTRATOR** permission to change the prefix%ex":":x: No tiene permiso para cambiar el prefijo del servidor%ex Necesita el permiso ** ADMINISTRADOR ** para cambiar el prefijo%ex",
