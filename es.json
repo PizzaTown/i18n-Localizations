@@ -62,29 +62,29 @@
             "READY": "LISTO"
         },
         "buy": {
-            "You now have %c cookies": "",
-            "You now have $%b": "",
-            "You have bought **%a Bell Pepper Topping%s** for $%b%ex": "",
-            "You have bought **%a %l Topping%s** for $%b%ex":"",
-            "You have bought **%s** for %b":"",
-            "You have bought **%s** for %c":"",
-            ":x: You don't have the required **Prestige Level** to use this command%ex You need a Prestige Level of **1**%ex":""
+			  "You now have %c cookies": "Ahora tienes %c galletas",
+			  "You now have $%b": "Ahora tienes $%b",
+			  "You have bought **%a Bell Pepper Topping%s** for $%b%ex": "Has comprado **%a coberturas de pimiento%s** por $%b%ex",
+			  "You have bought **%a %l Topping%s** for $%b%ex":"Has comprado **%a %l coberturas%s** por $%b%ex",
+			  "You have bought **%s** for %b":"Has comprado **%s** por %b",
+			  "You have bought **%s** for %c":"Has comprado **%s** por %c",
+			  ":x: You don't have the required **Prestige Level** to use this command%ex You need a Prestige Level of **1**%ex":":x: No tienes el **Nivel de Prestigio** requerido para usar este comando%ex Necesitas un **Nivel de Prestigio** de **1**%ex"
         },
         "channel": {
             ":x: You don't have permission to change the server prefix%ex You need the **ADMINISTRATOR** permission to change the prefix%ex":":x: No tiene permiso para cambiar el prefijo del servidor%ex Necesita el permiso ** ADMINISTRADOR ** para cambiar el prefijo%ex",
             "LARGE_DESCRIPTION_HERE (WIP | DO NOT TRANSLATE)":""
         },
         "utils": {
-            ":x: Unknown Buy ID%ex": "",
-            ":x: Unknown Employee ID%ex": "",
-            ":x: You've already bought the maximum amount%ex": "",
-            ":x: You've already hired the maximum number of people for this job%ex": "",
-            ":x: You must input a number, like `10`": "",
-            ":x: You must input a positive integer, like `10`": "",
-            ":x: You must input a whole number, like `10`": "",
-            ":x: You don't have enough money for the amount of toppings you want%ex You need $%b more to buy the amount of toppings you want%ex": "",
-            ":x: You don't have enough money for this upgrade%ex You need $%b more to buy this upgrade%ex": "",
-            ":x: You don't have enough money to employ this person%ex You need $%b more to employ them%ex": ""
+            ":x: Unknown Buy ID%ex": ":x: Desconocido ID de compra%ex",
+            ":x: Unknown Employee ID%ex": ":x: Desconocido ID de empleado%ex",
+            ":x: You've already bought the maximum amount%ex": ":x: Ya has comprado la cantidad máxima%ex",
+            ":x: You've already hired the maximum number of people for this job%ex": ":x: Ya contrató al número máximo de personas para este trabajo%ex",
+            ":x: You must input a number, like `10`": ":x: Debes ingresar un número, como `10`",
+            ":x: You must input a positive integer, like `10`": ":x: Debes ingresar un número entero positivo, como `10`",
+            ":x: You must input a whole number, like `10`": ":x: Debes ingresar un número entero, como `10`",
+            ":x: You don't have enough money for the amount of toppings you want%ex You need $%b more to buy the amount of toppings you want%ex": ":x: No tienes suficiente dinero para la cantidad de ingredientes que quieres%ex",
+            ":x: You don't have enough money for this upgrade%ex You need $%b more to buy this upgrade%ex": ":x: No tienes suficiente dinero para esta actualización%ex Necesitas $%b más para comprar esta actualización%ex",
+            ":x: You don't have enough money to employ this person%ex You need $%b more to employ them%ex": ":x: No tienes suficiente dinero para emplear a esta persona%ex Necesitas $%b más para emplearlos%ex"
         }
     }
 }
