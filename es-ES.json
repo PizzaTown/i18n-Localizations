@@ -54,5 +54,24 @@
             "¡Puedes cambiar el nombre de tu pizzería con %pname!",
             "¡Use %pstatus para ver si el bot responde actualmente en su canal!"
         ]
+    },
+    //TO BE TRANSLATED
+    "bake": {
+        "empty_menu": ":x: You must choose a pizza from your menu! Please run `%pmenu bake 1` to be able to bake a pizza!",
+        "cooldown_error": ":x: Your cooldown isn't over! You still have **%c** before baking more pizzas!",
+        "footer": "Use %pmenu to change what pizzas you bake!",
+        "baked_amount": "has baked **%c** pizzas!",
+        "no_toppings": "You don't have any toppings to bake the pizzas you've selected! Use `%pshop` or `%ptoppings` to get some!",
+        "too_many_items_menu": ":x: You have chosen more than %c items in your menu! Please run `%pmenu bake 1 2 3` to reset the menu!",
+        "no_items_menu": "You haven't chosen any pizzas to bake! Use `%pmenu` to set some!"
+    },
+    "buy": {
+        "cookie_footer": "You now have %c cookies",
+        "bal_footer": "You now have $%c",
+        "buy_topping": "You have bought **%c %c1 Topping%c2** for $%c3!",
+        "bal_toppings_footer": "You now have $%c and %c1$c2"
+    },
+    "toppings": {
+        "peppper": "Bell Pepper"
     }
 }
