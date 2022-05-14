@@ -67,10 +67,75 @@
     "buy": {
         "cookie_footer": "You now have %c cookies",
         "bal_footer": "You now have $%c",
-        "buy_topping": "You have bought **%c %c1 Topping%c2** for $%c3!",
-        "bal_toppings_footer": "You now have $%c and %c1$c2"
+        "buy_topping": "You have bought **%c %x Topping%y** for $%z!",
+        "bal_toppings_footer": "You now have $%c and %x %y%z",
+        "buy_default": "You have bought **%c** for $%x!",
+        "buy_cookie_item": "You have bought **%c %x** for %y %z!",
+        "buy_entertainment": "You have bought an upgrade for the activity **%c** for $%x!"
     },
     "toppings": {
-        "peppper": "Bell Pepper"
+        "pepper": "Bell Pepper",
+        "chicken": "Chicken",
+        "pepperoni": "Pepperoni",
+        "onions": "Onions",
+        "corn": "Corn",
+        "tomato": "Tomatoes",
+        "mushroom": "Mushrooms",
+        "pineapple": "Pineapple",
+        "ham": "Ham",
+        "caviar": "Caviar",
+        "olives": "Olives",
+        "truffle": "Truffles",
+        "crab": "Crabs",
+        "voidmeat": "Void Meat",
+        "pastsouls": "Lost Souls"
+    },
+    "errors": {
+        "buyunknown": "**:x: Unknown Buy ID!**\nUse the following format: `%pbuy <Buy ID> [Amount]`",
+        "staffunknown": "**:x: Unknown Employee ID!**\nUse the following format: `%precruit <Employee ID>`",
+        "uperror": ":x: You've already bought the maximum amount!",
+        "stafferror": ":x: You've already hired the maximum number of people for this job!",
+        "numerror": ":x: You must input a number, like `10`",
+        "negnumerror": ":x: You must input a positive integer, like `10`",
+        "wholeerror": ":x: You must input a whole number, like `10`",
+        "moneyerror": ":x: You don't have enough money for the amount of toppings you want! You need $%c more to buy the amount of toppings you want!",
+        "upmoneyerror": ":x: You don't have enough money for this upgrade! You need $%c more to buy this upgrade!",
+        "staffmoneyerror": ":x: You don't have enough money to employ this person! You need $%c more to employ them!",
+        "toppingsMoney": ":x: You don't have enough cookies for this topping pack! You need %c %x more to buy this topping pack!",
+        "chestMoney": ":x: You don't have enough cookies for this chest! You need %c %x more to buy this chest!",
+        "adminError": ":x: Only **Administrators** and **Developers** can use this command!",
+        "needHelp": "Do you need more help?",
+        "supportLink": "Support Server Link",
+        "commandHelp": "Command help for %p%c",
+        "slotError": ":x: You do not have the slots available to buy! Please choose a lower amount of slots to buy!",
+        "entertainmentError": ":x: You do not have an Entertainment Department for your pizzeria yet! Run `%pentertainment open` to create one!",
+        "prestigeLvl": ":x: You don't have the required **Prestige Level** to use this command! You need a Prestige Level of **%p**!",
+        "cooldownPreDesc": ":x: Your cooldown isn't over! You still have **%c**",
+        "dailyCooldown": "before claiming your daily reward again!",
+        "deliverCooldown": "before delivering more pizzas!",
+        "flipCooldown": "${preDesc} before gambling again!",
+        "cookieCooldown": "before giving more cookies!",
+        "topCooldown": "before getting more toppings!",
+        "collectCooldown": "before collecting more toppings!",
+        "reapCooldown": "before reaping for more items!"
+    },
+    "toppingsCommand": {
+        "cookieWin": "You also got **$c Cookies**!",
+        "toppingsWin": "Congrats! **%c** won **%x %y %z** and **%a %b %d**! %e"
+    },
+    "deliver": {
+        "success": "**%c** has delivered **%x** pizzas earning **$%y**",
+        "successFooter": "Use %pbake to create stock to sell!",
+        "no_pizzas": "You don't have any pizzas to deliver! Use `%pbake` to get some!",
+        "no_pizzasFooter": "Use %pmenu to change what pizzas you bake!"
+    },
+    "start": {
+        "exists": ":x: You already have a profile! Run `%pprofile view` to look at your profile!",
+        "missing_name": ":x: You need to input a name.\nUse the following format: `%pstart <Profile Name>`",
+        "success": "%c You have now created a PizzaTown pizzeria! Run `%pprofile view` to look at your profile!"
+    },
+    "misc": {
+        "support_join": "**Join the Support Server here!:** https://discord.gg/rdGrcvW",
+        "status": ":grinning: The bot is online!"
     }
 }
