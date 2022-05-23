@@ -134,6 +134,29 @@
         "missing_name": ":x: Debe ingresar un nombre.\nUse el siguiente formato: `%pstart <Nombre del perfil>`",
         "success": "%c ¡Has creado una pizzería en PizzaTown! ¡Ejecuta `%pprofile view` para ver tu perfil!"
     },
+    "help": {
+        "pg_0": "Página 0: Página de inicio",
+        "pg_1": "Página 1: Comandos Generales",
+        "pg_2": "Página 2: Comandos de juego",
+        "pg_3": "Página 3: Comandos de Tienda",
+        "pg_4": "Página 4: Otros Comandos",
+        "tl_home": "Ayuda",
+        "home_desc": "Usa `%phelp page <page_number>` para cambiar de página.",
+        "tl_basic": "Comandos Generales",
+        "tl_account": "Comandos de juego",
+        "tl_shops": "Comandos de Tiendas",
+        "tl_grindy": "Otros Comandos",
+        "req": "Requerido",
+        "opt": "Opcional",
+        "pg_1_desc": "Comandos generales para el bot.",
+        "pg_2_desc": "Comandos para jugar con el bot.",
+        "pg_3_desc": "Comprar comandos específicos.",
+        "pg_4_desc": "Comandos varios.",
+        "sup_serv_join": "**Pregunta** en el [servidor de soporte!](https://discord.gg/rdGrcvW)",
+        "ask_help": "¿Necesitas más ayuda?",
+        "head_help": "Sección de Ayuda",
+        "head_ex": "Ejemplos"
+    },
     "misc": {
         "support_join": "**¡Únete al servidor de soporte aquí!:** https://discord.gg/rdGrcvW",
         "status": ":grinning: ¡El bot está en línea!"

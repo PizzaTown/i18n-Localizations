@@ -134,6 +134,29 @@
         "missing_name": ":x: You need to input a name.\nUse the following format: `%pstart <Profile Name>`",
         "success": "%c You have now created a PizzaTown pizzeria! Run `%pprofile view` to look at your profile!"
     },
+    "help": {
+        "pg_0": "Page 0: Homepage",
+        "pg_1": "Page 1: General Commands",
+        "pg_2": "Page 2: Gameplay Commands",
+        "pg_3": "Page 3: Shop Commands",
+        "pg_4": "Page 4: Other Commands",
+        "tl_home": "Help",
+        "home_desc": "Use `%phelp page <page_number>` to switch pages.",
+        "tl_basic": "General Commands",
+        "tl_account": "Gameplay Commands",
+        "tl_shops": "Shops Commands",
+        "tl_grindy": "Other Commands",
+        "req": "Required",
+        "opt": "Optional",
+        "pg_1_desc": "General commands for the bot.",
+        "pg_2_desc": "Commands for playing with the bot.",
+        "pg_3_desc": "Shop specific commands.",
+        "pg_4_desc": "Miscellaneous commands.",
+        "sup_serv_join": "**Ask** in the [support server!](https://discord.gg/rdGrcvW)",
+        "ask_help": "Need more help?",
+        "head_help": "Help Section",
+        "head_ex": "Examples"
+    },
     "misc": {
         "support_join": "**Join the Support Server here!:** https://discord.gg/rdGrcvW",
         "status": ":grinning: The bot is online!"
