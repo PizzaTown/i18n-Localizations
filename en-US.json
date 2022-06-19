@@ -23,7 +23,7 @@
             "Buy items in %pupgrades and employ workers in %precruit for more income!",
             "There are 15 kinds of toppings, use %pinventory to check them out and see which ones you have!",
             "There are many kinds of pizzas with many toppings with many prices! Use %pmenu for more!",
-            "Use \"$pprofile -stats\" to see how many pizzas you’ve baked!",
+            "Use \"%pprofile -stats\" to see how many pizzas you’ve baked!",
             "Gambling can get you some extra money at a risk! Run %pdice and %pflip to bet some Tokens!",
             "Every minute you can get some free toppings using %ptoppings!",
             "There are 3 leaderboards for the highest amount of money, pizzas, and income! Use %plb to view it!",
@@ -113,14 +113,14 @@
         "cooldownPreDesc": ":x: Your cooldown isn't over! You still have **%c**",
         "dailyCooldown": "before claiming your daily reward again!",
         "deliverCooldown": "before delivering more pizzas!",
-        "flipCooldown": "${preDesc} before gambling again!",
+        "flipCooldown": "before gambling again!",
         "cookieCooldown": "before giving more cookies!",
         "topCooldown": "before getting more toppings!",
         "collectCooldown": "before collecting more toppings!",
         "reapCooldown": "before reaping for more items!"
     },
     "toppingsCommand": {
-        "cookieWin": "You also got **$c Cookies**!",
+        "cookieWin": "You also got **%c Cookies**!",
         "toppingsWin": "Congrats! **%c** won **%x %y %z** and **%a %b %d**! %e"
     },
     "deliver": {

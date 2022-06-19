@@ -113,14 +113,14 @@
         "cooldownPreDesc": ":x: ¡Tu enfriamiento no ha terminado! Todavía tienes **%c**",
         "dailyCooldown": "¡antes de volver a reclamar tu recompensa diaria!",
         "deliverCooldown": "¡antes de entregar más pizzas!",
-        "flipCooldown": "¡${preDesc} antes de apostar de nuevo!",
+        "flipCooldown": "antes de apostar de nuevo!",
         "cookieCooldown": "¡antes de dar más galletas!",
         "topCooldown": "¡antes de obtener más ingredientes!",
         "collectCooldown": "¡antes de recolectar más ingredientes!",
         "reapCooldown": "¡antes de cosechar más artículos!"
     },
     "toppingsCommand": {
-        "cookieWin": "¡También tienes **$c Cookies**!",
+        "cookieWin": "¡También tienes **%c Cookies**!",
         "toppingsWin": "¡Felicidades! **%c** ganó **%x %y %z** y **%a %b %d**! %e"
     },
     "deliver": {
