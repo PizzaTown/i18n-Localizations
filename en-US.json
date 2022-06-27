@@ -103,6 +103,7 @@
         "staffmoneyerror": ":x: You don't have enough money to employ this person! You need $%c more to employ them!",
         "toppingsMoney": ":x: You don't have enough cookies for this topping pack! You need %c %x more to buy this topping pack!",
         "chestMoney": ":x: You don't have enough cookies for this chest! You need %c %x more to buy this chest!",
+        "booksMoney": ":x: You don't have enough cookies for this book! You need %c %x more to buy this book!",
         "adminError": ":x: Only **Administrators** and **Developers** can use this command!",
         "needHelp": "Do you need more help?",
         "supportLink": "Support Server Link",

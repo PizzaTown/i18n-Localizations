@@ -103,6 +103,7 @@
         "staffmoneyerror": ":x: ¡No tienes suficiente dinero para emplear a esta persona! ¡Necesitas $%c más para emplearla!",
         "toppingsMoney": ":x: ¡No tienes suficientes galletas para este paquete de ingredientes! ¡Necesitas %c %x más para comprar este paquete de ingredientes!",
         "chestMoney": ":x: ¡No tienes suficientes galletas para este cofre! ¡Necesitas %c %x más para comprar este cofre!",
+        "booksMoney": ":x: ¡No tienes suficientes galletas para este libro! ¡Necesitas %c %x más para comprar este libro!",
         "adminError": ":x: ¡Solo **Administradores** y **Desarrolladores** pueden usar este comando!",
         "needHelp": "¿Necesitas más ayuda?",
         "supportLink": "Enlace del servidor de soporte",
